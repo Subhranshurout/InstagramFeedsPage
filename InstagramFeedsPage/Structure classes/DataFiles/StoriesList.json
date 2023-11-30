@@ -1,0 +1,102 @@
+    [
+        {
+            "profilePicture" : "image10",
+            "storyImage": [],
+            "storyProfileName": "Your Story",
+            "isStoryLiked": false,
+            "isClosedFriendStory": false,
+            "isNotMyStory": false,
+            "isMusicOrLocationAvailable": false,
+            "musicOrLocation": ""
+        }, {
+            "profilePicture" : "image1",
+            "storyImage": ["image1","image5","image6","image10"],
+            "storyProfileName": "samya_ranjan",
+            "isStoryLiked": false,
+            "isClosedFriendStory": false,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Jajpurroad_odisha"
+        },{
+            "profilePicture" : "image2",
+            "storyImage": ["image2","image8","image6","image9"],
+            "storyProfileName": "bibekMartha",
+            "isStoryLiked": false,
+            "isClosedFriendStory": false,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": ""
+        },{
+            "profilePicture" : "image3",
+            "storyImage": ["image3","image1","image10","image2"],
+            "storyProfileName": "subham_gn",
+            "isStoryLiked": false,
+            "isClosedFriendStory": true,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Anugul_odisha"
+        },{
+            "profilePicture" : "image4",
+            "storyImage": ["image4","image1","image3","image2"],
+            "storyProfileName": "sachin_mg",
+            "isStoryLiked": false,
+            "isClosedFriendStory": false,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Barampur_odisha"
+        },{
+            "profilePicture" : "image5",
+            "storyImage": ["image5","image9"],
+            "storyProfileName": "apur_ba",
+            "isStoryLiked": false,
+            "isClosedFriendStory": false,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Bhadrak_odisha"
+        },{
+            "profilePicture" : "image10",
+            "storyImage": ["image10","image7"],
+            "storyProfileName": "b_u_b_u",
+            "isStoryLiked": false,
+            "isClosedFriendStory": true,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Bhadrak_odisha"
+        },{
+            "profilePicture" : "image7",
+            "storyImage": ["image7","image10"],
+            "storyProfileName": "merry._.mansi",
+            "isStoryLiked": false,
+            "isClosedFriendStory": true,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Cuttack_odisha"
+        },{
+            "profilePicture" : "image8",
+            "storyImage": ["image8","image1","image4","image5"],
+            "storyProfileName": "lu_lu",
+            "isStoryLiked": false,
+            "isClosedFriendStory": false,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Mangalpur_jajpur_odisha"
+        },{
+            "profilePicture" : "image9",
+            "storyImage": ["image9","image1","image2","image6"],
+            "storyProfileName": "bi_shal",
+            "isStoryLiked": false,
+            "isClosedFriendStory": false,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "Rahama_odisha"
+        },{
+            "profilePicture" : "image6",
+            "storyImage": ["image6","image10","image8","image5"],
+            "storyProfileName": "barshsaaa",
+            "isStoryLiked": false,
+            "isClosedFriendStory": true,
+            "isNotMyStory": true,
+            "isMusicOrLocationAvailable": true,
+            "musicOrLocation": "jajpur_odisha"
+        }
+    ]
