@@ -176,7 +176,7 @@
 				294DC74E2AC292A600BB88AD /* SceneDelegate.swift */,
 				29DBC53C2AC2CC8C0026E580 /* Structure classes */,
 				29DBC9E32AC29D78007F7300 /* ViewControllers */,
-				29DBC9E22AC29D53007F7300 /* CollectionCells */,
+				29DBC9E12AC29D00007F7300 /* Xibs */,
 				294DC7522AC292A600BB88AD /* Main.storyboard */,
 				29DBC9E82AC2A010007F7300 /* HelperClasses */,
 				294DC7552AC292A900BB88AD /* Assets.xcassets */,
@@ -241,14 +241,6 @@
 				2905CD5A2B186A65001ED0D7 /* ViewStories */,
 			);
 			path = Xibs;
-			sourceTree = "<group>";
-		};
-		29DBC9E22AC29D53007F7300 /* CollectionCells */ = {
-			isa = PBXGroup;
-			children = (
-				29DBC9E12AC29D00007F7300 /* Xibs */,
-			);
-			path = CollectionCells;
 			sourceTree = "<group>";
 		};
 		29DBC9E32AC29D78007F7300 /* ViewControllers */ = {

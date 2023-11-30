@@ -312,7 +312,7 @@ extension CameraVC {
     @IBAction func importImagesBtn(_ sender: Any) {
         print(#function)
         var config = PHPickerConfiguration()
-        config.selectionLimit = 0
+        config.selectionLimit = 1
         config.filter = .images
         let phPickerVC = PHPickerViewController(configuration: config)
         phPickerVC.delegate = self
